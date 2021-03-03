@@ -1,0 +1,15 @@
+{
+  "name": "env-consumption",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.2.2",
+    "@humanwhocodes/env": "^2.1.2"
+  }
+}
